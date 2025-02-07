@@ -1,1 +1,1 @@
-Primer proyecto Nunchy
+Primer proyecto Nunchy - conexión Base de datos
